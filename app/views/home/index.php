@@ -1,2 +1,2 @@
 
-    <h1>selamat datang di website saya</h1>
+    <h1>Selamat Datang di Website Saya</h1>
